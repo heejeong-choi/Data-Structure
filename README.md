@@ -16,8 +16,10 @@
     1) 정렬(Sorting) - 한 줄려 모여 있는 데이터를 순서대로 나열하는 방법
     2) 검색(Searching) - 데이터 중에서 원하는 것을 찾아 내는 방법
     3) 문자열 패턴 패칭(SPM: String Pattern Matching) - 주어진 문자열에서 찾고자하는 문자열과 일치하는 부분을 찾아내는 방법
-    
 
+
+
+  
 🔴 ArrayList: 배열 기반; 데이터의 추가와 삭제에 불리함. 단, 순차적인 추가 및 삭제는 가장 빠름. 랜덤 요소에 대한 접근성이 뛰어나다.
 
 🟠 LinkedList: 연결 기반; 데이터의 추가와 삭제에 유리함. 랜덤 요소에 대한 접근성이 좋지 않음.
@@ -29,4 +31,3 @@
 🔵 Stack: Vector를 상속 받아 구현 (더이상 vector 지원X) LIFO (Last in First Out)
 
 🟣 Queue: LinkedList가 Queue 인터페이스를 구현함.
-
