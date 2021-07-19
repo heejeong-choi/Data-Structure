@@ -30,4 +30,4 @@
 
 🔵 Stack: Vector를 상속 받아 구현 (더이상 vector 지원X) LIFO (Last in First Out)
 
-🟣 Queue: LinkedList가 Queue 인터페이스를 구현함.
+🟣 Queue: LinkedList가 Queue 인터페이스를 구현함. FIFO (First in First Out)
