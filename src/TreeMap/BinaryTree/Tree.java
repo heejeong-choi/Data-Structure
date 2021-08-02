@@ -1,4 +1,4 @@
-package TreeMap.binaryTree;
+package TreeMap.BinaryTree;
 
 //binaryTree 생성
 public class Tree {

@@ -1,6 +1,4 @@
-package TreeMap.binaryTree;
-
-import javax.swing.*;
+package TreeMap.BinaryTree;
 
 public class TreeNode {
 
