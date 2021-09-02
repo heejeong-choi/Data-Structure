@@ -1,8 +1,8 @@
-package TreeMap.TreeSet;
+package javabook;
 
 import java.util.TreeSet;
 
-public class ex1 {
+public class TreemapEx1 {
     public static void main(String[] args) {
         TreeSet treeSet = new TreeSet();
         int[] score = {66, 71, 100, 55, 94, 49, 83, 91, 30, 60};

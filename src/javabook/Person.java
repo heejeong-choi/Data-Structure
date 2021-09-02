@@ -1,4 +1,4 @@
-package HaspMap.HashSet;
+package javabook;
 
 public class Person {
     String name;

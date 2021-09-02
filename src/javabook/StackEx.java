@@ -1,4 +1,4 @@
-package LinkedList.Stack;
+package javabook;
 
 public class StackEx {
     public static void main(String[] args) {

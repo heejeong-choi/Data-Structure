@@ -1,4 +1,4 @@
-package TreeMap.BinaryTree;
+package javabook.BinaryTree;
 
 //binaryTree 생성
 public class Tree {

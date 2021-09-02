@@ -1,8 +1,8 @@
-package TreeMap.TreeSet;
+package javabook;
 
 import java.util.TreeSet;
 
-public class ex2 {
+public class TreemapEx2 {
     public static void main(String[] args) {
         TreeSet treeSet = new TreeSet();
 

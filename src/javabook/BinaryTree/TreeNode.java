@@ -1,4 +1,4 @@
-package TreeMap.BinaryTree;
+package javabook.BinaryTree;
 
 public class TreeNode {
 

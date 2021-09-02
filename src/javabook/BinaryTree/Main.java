@@ -1,4 +1,4 @@
-package TreeMap.BinaryTree;
+package javabook.BinaryTree;
 
 // binaryTree에 자료를 추가 또는 조회하는 클래스
 public class Main {
