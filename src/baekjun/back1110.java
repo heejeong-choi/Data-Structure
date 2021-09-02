@@ -1,4 +1,4 @@
-package Example.loop;
+package baekjun;
 
 import java.util.Scanner;
 
