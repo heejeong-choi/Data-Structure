@@ -1,4 +1,4 @@
-package Arrays;
+package fastcampus;
 
 /**
  * 최적해를 구하는 데에 사용되는 근사적인 방법으로,

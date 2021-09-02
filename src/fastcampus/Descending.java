@@ -1,4 +1,4 @@
-package Arrays;
+package fastcampus;
 
 import java.util.Comparator;
 

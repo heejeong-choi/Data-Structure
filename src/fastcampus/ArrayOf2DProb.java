@@ -1,4 +1,4 @@
-package Arrays;
+package fastcampus;
 
 public class ArrayOf2DProb {
     public static void main(String[] args) {

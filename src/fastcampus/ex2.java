@@ -1,6 +1,5 @@
-package Arrays;
+package fastcampus;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 public class ex2 {

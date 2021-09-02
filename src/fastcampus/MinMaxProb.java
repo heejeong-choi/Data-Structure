@@ -1,4 +1,4 @@
-package Arrays;
+package fastcampus;
 
 public class MinMaxProb {
     public static void main(String[] args) {
