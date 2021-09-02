@@ -1,6 +1,7 @@
 package fastcampus.membership;
 
 import java.util.ArrayList;
+import java.util.Iterator;
 
 public class MemberArrayList {
 
@@ -19,6 +20,7 @@ public class MemberArrayList {
 
     //멤버 아이디를 매개변수로 삭제여부 반환하기
     public boolean removeMember(int memberId) {
+        /*
         //해당 아이디를 가진 멤버를 ArrayList에서 for문으로 찾기
         for(int i=0; i<arrayList.size(); i++) {
             Member member = arrayList.get(i);
@@ -30,6 +32,20 @@ public class MemberArrayList {
             }
         }
         System.out.println(memberId + " 가 존재하지 않습니다."); //for문 끝날때까지 return이 안되었을 때
+        return false; */
+
+        Iterator<Member> iterator = arrayList.iterator();
+        while(iterator.hasNext()) {
+            Member member = iterator.next();
+            int tempId = member.getMemberId();
+            if(tempId == memberId) {
+                arrayList.remove(member);
+
+                return true;
+            }
+        }
+
+        System.out.println(memberId + " 가 존재하지 않습니다.");
         return false;
     }
 
